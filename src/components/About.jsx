@@ -8,8 +8,6 @@ export default function About() {
   const handleDownload = () => {
     window.open("https://drive.google.com/file/d/1r46x8Utr19jTSZp8clzA2E2oqw3avFjB/view?usp=sharing", '_blank');
 
-
-
   };
  
   useEffect(() => {
